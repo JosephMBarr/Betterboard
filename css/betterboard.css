@@ -1,0 +1,115 @@
+.betterPortlet{
+  border: none;
+}
+
+#column0{
+  margin-left:-15vw;
+  position: absolute;
+}
+
+#column1{
+  margin-left: 15vw;
+  position: absolute;
+}
+.portlet{
+  width: 30vw;
+}
+
+#column2{
+  margin-left:45.5vw;
+  position: absolute;
+}
+
+.announcement_bang{
+  color:red;
+  font-size:4vh;
+}
+
+.better_containerdiv{
+  margin-left: 0vw !important;
+  width: 85vw !important;
+}
+.better_grades_header{
+  margin-left:-1vw !important;
+  width:85vw !important;
+}
+.hoverhand:hover{
+  cursor: pointer;
+}
+.betterAnnouncementInfo{
+  font-size:1.5vh;
+  width:20vw;
+}
+body{
+  background-image:none;
+}
+*{
+  border:none !important;
+}
+#content, .containerPortal, .contentBox, .collapsible{
+  box-shadow:none !important;
+}
+.noItems{
+  display:none;
+}
+.edit_pencil, .x{
+  height:2vh;
+  display:block !important;
+  visibility: visible !important;
+  float: right;
+}
+
+.hidden_class{
+  margin-left:2vw;
+}
+#hidden_container{
+  font-size:2vh;
+}
+.return_carat{
+  float:right;
+}
+
+
+.grade0{
+  border-left: 2px solid red !important;
+}
+
+.grade1{
+  border-left: 2px solid #C04000 !important;
+}
+
+.grade2{
+  border-left: 2px solid #E9AB17 !important;
+}
+
+.grade3{
+  border-left: 2px solid #FBB917 !important;
+}
+
+.grade4{
+  border-left: 2px solid #FFDB58 !important;
+}
+
+.grade5{
+  border-left: 2px solid #B1FB17 !important;
+}
+
+.grade6{
+  border-left: 2px solid green !important;
+}
+
+.grade7{
+  border-left: 2px solid #008080 !important;
+}
+
+.grade8{
+  border-left: 2px solid #0000A0 !important;
+}
+
+.grade9{
+  border-left: 2px solid #571B7E !important;
+}
+
+.grade10{
+  border-left: 2px solid black !important;
+}
