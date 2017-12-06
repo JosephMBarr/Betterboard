@@ -113,3 +113,8 @@ body{
 .grade10{
   border-left: 2px solid black !important;
 }
+
+
+#badgeTotal{
+  margin-left: 2vw;
+}
